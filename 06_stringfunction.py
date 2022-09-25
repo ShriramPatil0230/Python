@@ -19,7 +19,7 @@ print(story.find("Shriram"))
 print(story.find("shriram"))
     #find string is use to find the word in string
 
-print(story.replace("shriram", "ram"))
+print(story.replace("shriram", "SR"))
     # replace string is use to replace word in string
 
     # solve problem
