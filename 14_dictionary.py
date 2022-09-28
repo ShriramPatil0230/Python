@@ -7,7 +7,7 @@ myDict = {
 }
 
 # Dictionary Methods
-print(list(myDict.keys())) # Prints the keys of the dictionary
+print(list(myDict.keys()))  # Prints the keys of the dictionary
 print(myDict.values()) # Prints the keys of the dictionary 
 print(myDict.items()) # Prints the (key, value) for all contents of the dictionary 
 print(myDict)
