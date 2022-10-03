@@ -1,3 +1,4 @@
+#singleinhertance
 class Employee:
     company = "Google"
 
