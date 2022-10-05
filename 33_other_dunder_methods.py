@@ -17,5 +17,5 @@ class Number:
         return 1
 
 n = Number(90)
-print(n)
+print(n)  #print n
 print(len(n))
