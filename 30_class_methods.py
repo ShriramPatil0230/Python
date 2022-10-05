@@ -1,3 +1,4 @@
+#class method
 class Employee:
     company = "Camel"
     salary = 100
