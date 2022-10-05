@@ -1,3 +1,4 @@
+#super()method
 class Person:
     country = "India"
 
