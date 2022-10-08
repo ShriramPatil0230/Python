@@ -1,3 +1,4 @@
+#Train information
 class Train:
     def __init__(self, name, seats, fare):
         self.name = name
